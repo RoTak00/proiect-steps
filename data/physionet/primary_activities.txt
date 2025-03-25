@@ -1,0 +1,41 @@
+Primary activity per file:
+id5993bf4a.csv: Driving
+idc91a49d0.csv: Driving
+id3e3e50c7.csv: Driving
+idf540d82b.csv: Driving
+idb221f542.csv: Driving
+id9603e9c3.csv: Non-study
+id7c20ee7a.csv: Driving
+id86237981.csv: Driving
+idd80ac2b4.csv: Walking
+id8e66893c.csv: Driving
+id00b70b13.csv: Driving
+id650857ca.csv: Non-study
+id8af5374b.csv: Driving
+idecc9265e.csv: Driving
+ida61e8ddf.csv: Non-study
+id82b9735c.csv: Driving
+idbae5a811.csv: Driving
+id37a54bbf.csv: Non-study
+id687ab496.csv: Driving
+id4ea159a8.csv: Driving
+id5308a7d6.csv: Driving
+id1f372081.csv: Non-study
+id1165e00c.csv: Driving
+idfc5f05e4.csv: Driving
+id34e056c8.csv: Driving
+id079c763c.csv: Driving
+idf1ce9a0f.csv: Non-study
+id1c7e64ad.csv: Driving
+idf5e3678b.csv: Non-study
+idc735fc09.csv: Driving
+idff99de96.csv: Driving
+idabd0c53c.csv: Walking
+
+Global activity distribution across all files:
+Activity Non-study: 3193794 samples (34.78%)
+Activity Clapping: 122515 samples (1.33%)
+Activity Walking: 1576845 samples (17.17%)
+Activity Descending Stairs: 267538 samples (2.91%)
+Activity Ascending Stairs: 279907 samples (3.05%)
+Activity Driving: 3741501 samples (40.75%)
