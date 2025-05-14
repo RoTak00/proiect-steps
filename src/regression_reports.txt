@@ -1,0 +1,3 @@
+🎯 Age → R²: 0.025, MAE: 3.81
+🎯 Weight → R²: 0.210, MAE: 10.66
+🎯 Height → R²: 0.052, MAE: 7.37

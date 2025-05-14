@@ -1,0 +1,9 @@
+🎯 Gender classification:
+              precision    recall  f1-score   support
+
+           F       0.91      0.89      0.90      8313
+           M       0.91      0.92      0.91      9346
+
+    accuracy                           0.91     17659
+   macro avg       0.91      0.91      0.91     17659
+weighted avg       0.91      0.91      0.91     17659
